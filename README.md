@@ -1,5 +1,5 @@
 # AIDM7410-GroupPoject
-Finding 'Love' in China: A study About  Marriage Matchmaking Corner and Online Dating Based on gender and education.
+Finding 'Love' in China: A study About  Marriage Matchmaking Corner and Online Dating Based on gender and education./n
 Group Member: Wang Xue, Wu Qiaoying, Wu Shuyao
 Instructor:  Zhang Xinzhi
 NBViewer Link: https://github.com/7410-3W/AIDM7410-GroupPoject
